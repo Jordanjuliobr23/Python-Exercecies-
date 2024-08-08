@@ -1,0 +1,6 @@
+print('=-'*100)
+print('Adição de elementos no arquivo')
+fdin=open('Exercicio/test.txt','a')
+fdin.write('SQL\n')
+fdin.write('Terraform\n')
+fdin.close()

@@ -1,0 +1,10 @@
+Python
+Javascript 
+C#
+Css 
+React 
+PHP
+C++ 
+Java 
+Html 
+R 

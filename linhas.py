@@ -1,0 +1,5 @@
+print('=-'*100)
+print('Lendo linhas do arquivo')
+fdin=open('Exercicio/test.txt','r') 
+print (fdin.readlines())
+fdin.close()

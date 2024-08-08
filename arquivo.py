@@ -1,0 +1,5 @@
+print('=-'*100)
+print('Abrindo um arquivo no python')
+fdin=open('Exercicio/test.txt','r')
+print(fdin.readable())
+fdin.close()
